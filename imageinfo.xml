@@ -1,0 +1,44 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="34881" filedate="2011-04-16 17:56:39" width="463px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="64742" filedate="2011-04-16 17:57:27" width="473px" height="720px">
+</image>
+<image path="images/p009.jpg" filesize="64226" filedate="2011-04-16 18:12:22" width="640px" height="281px">
+</image>
+<image path="images/p022.jpg" filesize="61828" filedate="2011-04-16 18:09:28" width="640px" height="286px">
+</image>
+<image path="images/p030.jpg" filesize="27112" filedate="2011-04-16 18:06:51" width="360px" height="204px">
+</image>
+<image path="images/p034.jpg" filesize="70272" filedate="2011-04-16 18:03:13" width="640px" height="292px">
+</image>
+<image path="images/p042.jpg" filesize="64681" filedate="2011-04-17 13:19:08" width="640px" height="286px">
+</image>
+<image path="images/p050.jpg" filesize="70953" filedate="2011-04-17 13:21:36" width="640px" height="293px">
+</image>
+<image path="images/p069.jpg" filesize="70950" filedate="2011-04-17 13:24:03" width="640px" height="300px">
+</image>
+<image path="images/p084.jpg" filesize="68215" filedate="2011-04-17 13:26:32" width="640px" height="307px">
+</image>
+<image path="images/p087.jpg" filesize="63334" filedate="2011-04-17 13:29:13" width="640px" height="292px">
+</image>
+<image path="images/p091.jpg" filesize="62222" filedate="2011-04-17 14:16:27" width="640px" height="287px">
+</image>
+<image path="images/p105.jpg" filesize="75501" filedate="2011-04-17 14:19:41" width="640px" height="294px">
+</image>
+<image path="images/p138.jpg" filesize="71135" filedate="2011-04-17 14:22:07" width="640px" height="291px">
+</image>
+<image path="images/p146.jpg" filesize="69566" filedate="2011-04-17 14:24:22" width="640px" height="287px">
+</image>
+<image path="images/p165.jpg" filesize="60349" filedate="2011-04-17 14:27:31" width="640px" height="296px">
+</image>
+<image path="images/spine.jpg" filesize="14056" filedate="2011-04-16 17:57:03" width="79px" height="720px">
+</image>
+<image path="images/titlepage.gif" filesize="17240" filedate="2011-04-16 18:17:17" width="410px" height="720px">
+</image>
+</images>
